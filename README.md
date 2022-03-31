@@ -1,3 +1,3 @@
 #weatherapp
 
-A weather app that uses APIs to fetch weather and geological location, wrutten using HTML, CSS and JavaScript
+A weather app that uses APIs to fetch weather and geolocation information, wrutten using HTML, CSS and JavaScript

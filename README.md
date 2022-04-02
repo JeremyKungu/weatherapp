@@ -1,3 +1,1 @@
-#weatherapp
-
-A weather app that uses APIs to fetch weather and geolocation information, wrutten using HTML, CSS and JavaScript
+The application is a weather app that uses the openweather api to fetch current weather data as well as the location of the city searched,providing images linked with the city and written using JavaScript, HTML and CSS. 
